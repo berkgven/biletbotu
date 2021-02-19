@@ -14,6 +14,3 @@ Komutlar
 b!setup #kanal | Botu hazırlar.
 b!kapat | Bileti kapatır.
 b!sil | Bileti siler.
-
-
-github.com/berkgven
