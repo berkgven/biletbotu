@@ -3,6 +3,8 @@ Discord için discord.js ile yazılmış bir bilet botu.
 
 İndirmek için releases sayfasından son sürümü indirin!
 
+https://github.com/berkgven/biletbotu/releases
+
 Discord Bilet Botu
 
 Kullanmadan önce token'i yazmayı ve kapalı biletlerin toplanacağı kategorinin id'sini değiştirmeyi unutmayın.
