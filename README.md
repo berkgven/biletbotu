@@ -1,6 +1,7 @@
 # biletbotu
 Discord için discord.js ile yazılmış bir bilet botu.
 
+İndirmek için releases sayfasından son sürümü indirin!
 
 Discord Bilet Botu
 
